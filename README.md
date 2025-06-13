@@ -45,8 +45,10 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/taskflow-ai.git
-   cd taskflow-ai
+   git clone https://github.com/Viraj-77/AI-Meeting-Minutes-to-Task-Converter.git
+   cd AI-Meeting-Minutes-to-Task-Converter
+
+
    ```
 
 2. Install dependencies:
@@ -127,21 +129,13 @@ Output:
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint for code linting
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+   
+##Screenshots
+![image](https://github.com/user-attachments/assets/6cdfb170-6460-47df-938c-0686fa4386e8)
+![image](https://github.com/user-attachments/assets/633c1157-599c-4df0-bf3d-f8303005949f)
+![image](https://github.com/user-attachments/assets/440bac9c-9efb-4349-b8d2-d1b54466d323)
 
-## 📝 License
 
-This project is open source and available under the MIT License.
 
-## 🙏 Acknowledgments
-
-- [chrono-node](https://github.com/wanasit/chrono) for natural language date parsing
-- [Lucide Icons](https://lucide.dev/) for beautiful icons
-- [Tailwind CSS](https://tailwindcss.com/) for utility-first styling
  
